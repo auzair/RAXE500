@@ -18,3 +18,8 @@
     done
 
 
+
+
+## Build onboarding
+
+See `FIRST_SUCCESSFUL_BUILD_REVIEW.md` for a practical first-build checklist and troubleshooting workflow.
